@@ -1,1 +1,1 @@
-# COW-DOG# backend-cowdog
+# COW-DOG
